@@ -1,0 +1,37 @@
+{
+  "x.com": {
+    "element": "%2F%2F*%5B%40id%3D%22react-root%22%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fmain%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fsection%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Farticle%5B1%5D",
+    "hide": [
+      "%2Fhtml%2Fbody%2Fdiv%5B1%5D%2Fdiv%2Fdiv%2Fdiv%5B1%5D%2Fdiv%2Fdiv%5B1%5D"
+    ]
+  },
+  "facebook": {},
+  "bmi.bund": {
+    "delay": 3000
+  },
+  "linkedin.com": {
+    "hasPopup": true,
+    "element": "%2Fhtml%2Fbody%2Fmain%2Fsection%5B1%5D%2Fdiv%2Fsection%5B1%5D%2Farticle"
+  },
+  "threads.net": {
+    "element": "%2Fhtml%2Fbody%2Fdiv%5B2%5D%2Fdiv%2Fdiv%2Fdiv%5B4%5D%2Fdiv%2Fdiv%2Fdiv%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%2Fdiv%2Fdiv%5B3%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv"
+  },
+  "tiktok.com": {
+    "hasPopup": true,
+    "element": "%2Fhtml%2Fbody%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5B2%5D%2Fdiv%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D"
+  },
+  "instagram.com": {
+    "hasPopup": true,
+    "element": "%2F%2Farticle%5B1%5D",
+    "delay": 2000
+  },
+  "reddit.com": {
+    "element": "%2Fhtml%2Fbody%2Fshreddit-app%2Fdiv%2Fdiv%5B1%5D%2Fdiv%2Fmain%2Fshreddit-post"
+  },
+  "web.archive.org": {
+    "delay": 1200
+  },
+  "spiegel.de": {
+    "delay": 1200
+  }
+}
