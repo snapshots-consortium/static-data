@@ -33,5 +33,8 @@
   },
   "spiegel.de": {
     "delay": 1200
+  },
+  "forbes.com": {
+    "delay": 3000
   }
 }
