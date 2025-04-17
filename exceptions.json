@@ -36,5 +36,8 @@
   },
   "forbes.com": {
     "delay": 3000
+  },
+  "bbc.com": {
+    "delay": 2000
   }
 }
