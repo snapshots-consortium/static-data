@@ -1,6 +1,6 @@
 {
     "iframeRegex": "(sp_message_iframe_[0-9]+|ccpa-iframe|pop-frame[0-9]+)",
     "iframeCssSelectors": ["div.cmp-components-modal__frame > iframe"],
-    "cookieRegex": "(zulassen|accept|allow(?! these cookies)|erlauben|akzeptiere|einwilligen|consent(?! (tool|section))|agree|continue with ads|zustimmen|stimme zu|alle auswählen|einverstanden)",
+    "cookieRegex": "(zulassen|accept|allow(?! these cookies)|erlauben|akzeptiere|einwilligen|consent(?! (tool|section))|agree|continue with ads|continue with recommended cookies|zustimmen|stimme zu|alle auswählen|einverstanden)",
     "popupRegex": "(close|schließen|verwerfen)"
 }
