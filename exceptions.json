@@ -42,5 +42,8 @@
   },
   "teambro.de": {
     "delay": 2000
+  },
+  "zeit.de": {
+    "hasPopup": true
   }
 }
