@@ -44,6 +44,7 @@
     "delay": 2000
   },
   "zeit.de": {
+    "delay": 2000
     "hasPopup": true
   }
 }
