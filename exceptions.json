@@ -32,7 +32,8 @@
     "delay": 1200
   },
   "spiegel.de": {
-    "delay": 1200
+    "delay": 2000,
+    "hasPopup": true    
   },
   "forbes.com": {
     "delay": 3000
