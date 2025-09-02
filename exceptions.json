@@ -47,5 +47,8 @@
   "zeit.de": {
     "delay": 1300,
     "hasPopup": true
+  },
+  "kaufbeuren.de": {
+    "delay": 2000
   }
 }
