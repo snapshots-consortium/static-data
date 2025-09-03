@@ -49,6 +49,9 @@
     "hasPopup": true
   },
   "kaufbeuren.de": {
-    "delay": 3000
+    "delay": 2000,
+    "hide": [
+      "%2Fhtml%2Fbody%2Fform%2Fdiv%5B3%5D%2Fdiv%2Fdiv%5B3%5D"
+    ]
   }
 }
